@@ -56,7 +56,4 @@ The repository includes the following scripts:
 
 ---
 
-## **Setup Instructions**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/animal-runner-game.git
+
